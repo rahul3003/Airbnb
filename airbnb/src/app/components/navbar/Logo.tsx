@@ -13,6 +13,7 @@ const Logo =()=>{
         height='40'
         width='100'
         src='/image/logo.png'
+        
         />
     )
 }
